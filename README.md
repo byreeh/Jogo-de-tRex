@@ -1,4 +1,4 @@
-# aula-TRex
+# Atividade-TRex
 # Tecnologias Utilizadas
   •	Html5
   •	Css3
